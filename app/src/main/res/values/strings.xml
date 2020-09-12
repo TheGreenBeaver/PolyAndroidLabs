@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="widget1">Widget1</string>
+    <string name="widget2">widget2</string>
+    <string name="widget3">Widget3</string>
+    <string name="widget4">Widget4</string>
+    <string name="widget6">Widget6</string>
+    <string name="widget5">Widget5</string>
+</resources>
